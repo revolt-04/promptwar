@@ -1,4 +1,4 @@
-<!-- BEGIN:nextjs-agent-rules -->
+<!-- BEGIN:nextjs-agentrules -->
 
 ## This is NOT the Next.js you know
 
